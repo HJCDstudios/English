@@ -18,10 +18,6 @@ Example: ```say hello, world!```<br/>
 * prompt for user info
 * variable declaration, objects, string, ints
 
-# "Flags"
-Putting an -S will mark the input as a string,<br/>
-Example: ```-S What's Wyatt's name```
-
 # Notes
 This "programming language" is still in development state
 which means there might be bugs! Also, Check out the example programs!
