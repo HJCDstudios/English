@@ -1,0 +1,5 @@
+ask the user Enter the first number
+set the user's first number to the user's answer
+ask the user to Enter the second number
+make the user's second number to the user's answer
+say The sum of the two numbers is: the sum of the user's first number and the user's second number
