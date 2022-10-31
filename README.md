@@ -15,7 +15,7 @@ Example: ```say hello, world!```<br/>
 * while loop
 * read files
 * addition
-* prompt for user info
+* prompt for user input
 * variable declaration, objects, string, ints
 
 # Notes
