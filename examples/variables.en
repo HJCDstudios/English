@@ -1,0 +1,15 @@
+-C you can make a varible like so:
+-C make/create a variable named/called [my varible name] (with the value of/(and/and then) set its value (to/=)) [variable value]
+-C or using "set" to make it more shorter
+-C set [my variable name] to/= [my variable value]
+
+make a variable named foo with the value of bar
+
+-C shortest possible way to declare a variable (you can replace = with "to")
+set foo = bar
+
+-C Remember! When declaring a variable, the = sign will always be the indicator of the value
+-C Example:
+set to say = Hello, World!
+-C and then print it out:
+say to say

@@ -1,5 +1,6 @@
-ask the user Enter the first number
-set the user's first number to the user's answer
-ask the user to Enter the second number
-make the user's second number to the user's answer
-say The sum of the two numbers is: the sum of the user's first number and the user's second number
+-C Add two numbers example
+
+make a variable named our first number and set the value to 1
+make another variable named our second number and set its value to 1
+
+say the sum of our first number and our second number

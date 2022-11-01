@@ -1,1 +1,20 @@
-say Hello, World
+change DEBUG to yes
+-C there are multiple ways to say hello world in this language
+-C the first method is this:
+
+say Hello, World! from say
+
+-C The second method is to use print or println
+
+print Hello, World! From print
+println Hello, World! From println
+
+-C you can also declare a variable and then use it to print out hello, World
+
+make a variable named My Cool Variable with the value of Hello, World!
+say My Cool Variable
+
+-C if you want to output "My Cool Variable" keeping it unchanged,
+-C you would need to start it with an -S
+
+say -S My Cool Variable

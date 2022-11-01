@@ -1,0 +1,7 @@
+-C User input example
+
+ask the user for his name
+say Hello AND the user's answer
+
+-C a problem with this language is you need
+-C to type "AND" to join two strings :(
